@@ -1,0 +1,11 @@
+c:\users\valdecir\documents\crud\crud\crud\bin\Debug\crud.exe.config
+c:\users\valdecir\documents\crud\crud\crud\bin\Debug\crud.mdf
+c:\users\valdecir\documents\crud\crud\crud\bin\Debug\crud_log.ldf
+c:\users\valdecir\documents\crud\crud\crud\bin\Debug\crud.exe
+c:\users\valdecir\documents\crud\crud\crud\bin\Debug\crud.pdb
+c:\users\valdecir\documents\crud\crud\crud\obj\Debug\crud.csprojResolveAssemblyReference.cache
+c:\users\valdecir\documents\crud\crud\crud\obj\Debug\crud.Form1.resources
+c:\users\valdecir\documents\crud\crud\crud\obj\Debug\crud.Properties.Resources.resources
+c:\users\valdecir\documents\crud\crud\crud\obj\Debug\crud.csproj.GenerateResource.Cache
+c:\users\valdecir\documents\crud\crud\crud\obj\Debug\crud.exe
+c:\users\valdecir\documents\crud\crud\crud\obj\Debug\crud.pdb
